@@ -1,0 +1,11 @@
+hello
+ls
+shell
+mkdir
+new-item hello
+ls
+nvim
+ls
+pwd
+get-location
+exit
